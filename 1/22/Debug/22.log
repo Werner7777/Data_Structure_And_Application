@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\cppseries\数据结构、算法与应用\1\22\Source.cpp(7,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  22.vcxproj -> E:\cppseries\数据结构、算法与应用\1\22\Debug\22.exe

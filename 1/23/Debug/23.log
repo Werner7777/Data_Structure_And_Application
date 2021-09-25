@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\cppseries\数据结构、算法与应用\1\23\Source.cpp(10): warning C4715: 'gcd': not all control paths return a value
+  23.vcxproj -> E:\cppseries\数据结构、算法与应用\1\23\Debug\23.exe

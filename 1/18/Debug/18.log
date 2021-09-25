@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\cppseries\数据结构、算法与应用\1\18\Source.cpp(119,28): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+E:\cppseries\数据结构、算法与应用\1\18\Source.cpp(125,28): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  18.vcxproj -> E:\cppseries\数据结构、算法与应用\1\18\Debug\18.exe
